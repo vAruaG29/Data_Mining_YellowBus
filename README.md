@@ -1,1 +1,4 @@
-# Data_Mining_YellowBus
+# COL761 Data Mining
+### Team YellowBus
+#### Spandan | Gaurav | Viraat
+
